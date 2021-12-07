@@ -1,4 +1,7 @@
 # Personal_Portfolio
+
+https://jpeej.github.io/Personal_Portfolio/
+
 My personal portfolio page V2.0
  
 I've created a personal portfolio page before, however; looking back I wasn't very happy with it. It lacked a clean appearance that would be both efficient and aesthically pleasing. Also, the coding was just a mess. No structure or comments made it feel like a mine-field. 
